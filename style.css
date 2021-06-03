@@ -1,7 +1,7 @@
 
 body {
   
-    background: center url(images/bg.jpg);
+    background: center url(bg.jpg);
     background-size: 65%;
     
   }
@@ -29,9 +29,10 @@ p {
     font-size: 20px;
 
 }
-ol {
+ul {
     color:rgb(255, 255, 255);
     font-size: 25px;
+    list-style-type: none;
 }
 img {
     width: 85%;
