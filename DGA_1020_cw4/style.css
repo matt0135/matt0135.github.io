@@ -1,0 +1,44 @@
+
+body {
+  
+    background: center url(images/bg.jpg);
+    background-size: 65%;
+    
+  }
+
+h1 {
+    color:rgb(117, 9, 9);
+    
+    font-size: 75px;
+
+}
+h2 {
+    color:rgb(255, 255, 255);
+}
+
+h3 {
+
+    color:rgb(124, 11, 11);
+    font-size: 45px;
+    
+}
+
+p {
+    color:rgb(255, 255, 255);
+    
+    font-size: 20px;
+
+}
+ol {
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+}
+img {
+    width: 85%;
+    margin: 1px auto;
+    display: block;
+}
+a {
+    color: rgb(158, 158, 182);
+    font-size: 20px;
+}
